@@ -2,6 +2,8 @@ namespace JenkinsWebApplicationDemo
 {
     public class WeatherForecast
     {
+        public string? SamTest {  get; set; }
+
         public DateTime Date { get; set; }
 
         public int TemperatureC { get; set; }

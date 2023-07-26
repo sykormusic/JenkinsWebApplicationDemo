@@ -1,0 +1,11 @@
+C:\Users\sykor\OneDrive\Desktop\projects\JenkinsWebApplicationDemo\JenkinsWebApplicationDemo\obj\Release\net6.0\PubTmp\Out\JenkinsWebApplicationDemo.exe
+C:\Users\sykor\OneDrive\Desktop\projects\JenkinsWebApplicationDemo\JenkinsWebApplicationDemo\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\sykor\OneDrive\Desktop\projects\JenkinsWebApplicationDemo\JenkinsWebApplicationDemo\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\sykor\OneDrive\Desktop\projects\JenkinsWebApplicationDemo\JenkinsWebApplicationDemo\obj\Release\net6.0\PubTmp\Out\JenkinsWebApplicationDemo.dll
+C:\Users\sykor\OneDrive\Desktop\projects\JenkinsWebApplicationDemo\JenkinsWebApplicationDemo\obj\Release\net6.0\PubTmp\Out\JenkinsWebApplicationDemo.deps.json
+C:\Users\sykor\OneDrive\Desktop\projects\JenkinsWebApplicationDemo\JenkinsWebApplicationDemo\obj\Release\net6.0\PubTmp\Out\JenkinsWebApplicationDemo.runtimeconfig.json
+C:\Users\sykor\OneDrive\Desktop\projects\JenkinsWebApplicationDemo\JenkinsWebApplicationDemo\obj\Release\net6.0\PubTmp\Out\JenkinsWebApplicationDemo.pdb
+C:\Users\sykor\OneDrive\Desktop\projects\JenkinsWebApplicationDemo\JenkinsWebApplicationDemo\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\sykor\OneDrive\Desktop\projects\JenkinsWebApplicationDemo\JenkinsWebApplicationDemo\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sykor\OneDrive\Desktop\projects\JenkinsWebApplicationDemo\JenkinsWebApplicationDemo\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sykor\OneDrive\Desktop\projects\JenkinsWebApplicationDemo\JenkinsWebApplicationDemo\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
