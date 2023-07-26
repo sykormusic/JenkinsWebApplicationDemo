@@ -2,6 +2,7 @@ namespace JenkinsWebApplicationDemo
 {
     public class WeatherForecast
     {
+        public String? test { get; set; }
         public string? abc { get; set; }
         public string? SamTest {  get; set; }
 
